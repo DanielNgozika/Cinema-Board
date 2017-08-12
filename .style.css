@@ -1,0 +1,79 @@
+/* {
+	border: 1px solid rgba(0, 0, 0, 0.3); 
+}*/
+	.container {
+      
+	  font-family: 'Architects Daughter', cursive;
+	  color: rgb(250, 250, 250);
+	  background-color: rgb(255, 18, 29);
+	  
+
+	
+}
+
+/*#movie-icon {
+	display: inline;
+
+}*/
+
+}
+
+#title {
+
+    margin-right: 0px;
+	display: inline;
+	padding-left: 10px;
+
+}
+
+/*header nav{
+	float: right;
+	margin-top: 10px;
+	color: #fff; */
+}
+
+
+a {
+	text-decoration: none;
+}
+
+form {
+	margin-top: 15px;
+}
+
+#enter {
+	width: 300px;
+	height: 25px;
+	margin-bottom: 15px;
+	margin-left: 350px;
+	margin-right: 0px;
+
+}
+
+.section {
+	margin-top: 0;
+	background-color: rgb(49, 46, 49);
+}
+
+.button-1 {
+	height: 25px;
+	margin-top: 0px;
+	
+}
+
+.result1 {
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 15px;
+	background-color: rgb(211, 213, 211);
+	border-bottom: 5px solid rgb(0, 0, 0)
+}
+
+.result2 {
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: rgb(211, 213, 211);
+	margin-bottom: 0px;
+}
+
+
